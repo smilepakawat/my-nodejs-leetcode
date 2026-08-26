@@ -1,8 +1,6 @@
 # My LeetCode Practice (JavaScript / Node.js)
 
-![CI](https://github.com/<USERNAME>/<REPO>/actions/workflows/ci.yml/badge.svg)
-
-> Replace `<USERNAME>/<REPO>` above with this repo's actual GitHub path once pushed.
+![CI](https://github.com/smilepakawat/my-nodejs-leetcode/actions/workflows/ci.yml/badge.svg)
 
 My LeetCode solutions in plain modern JavaScript (Node.js), organized by
 difficulty, each with tests and a short write-up of my approach.
