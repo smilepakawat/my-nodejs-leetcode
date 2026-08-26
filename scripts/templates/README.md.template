@@ -1,0 +1,17 @@
+# {{NUMBER}}. {{TITLE}}
+
+- **Difficulty:** {{DIFFICULTY_CAP}}
+- **Link:** https://leetcode.com/problems/{{SLUG}}/
+
+## Approach
+
+<!-- Describe your approach here -->
+
+## Complexity
+
+- **Time:** O(?)
+- **Space:** O(?)
+
+## What I initially got wrong
+
+<!-- Notes on mistakes, edge cases missed, wrong assumptions, etc. -->

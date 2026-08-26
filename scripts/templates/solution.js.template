@@ -1,0 +1,12 @@
+/**
+ * LeetCode {{NUMBER}}. {{TITLE}}
+ * https://leetcode.com/problems/{{SLUG}}/
+ *
+ * @param {*} TODO describe params
+ * @return {*} TODO describe return
+ */
+function {{FUNCTION_NAME}}() {
+  // TODO: implement
+}
+
+export default {{FUNCTION_NAME}};

@@ -1,0 +1,13 @@
+import {{FUNCTION_NAME}} from './solution.js';
+
+describe('{{NUMBER}}. {{TITLE}}', () => {
+  // Sample cases from LeetCode
+  test.todo('example 1 from LeetCode');
+  test.todo('example 2 from LeetCode');
+
+  // My own edge cases
+  test.todo('empty input');
+  test.todo('single element');
+  test.todo('duplicates');
+  test.todo('negative numbers');
+});
