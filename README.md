@@ -77,7 +77,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | #    | Title                           | Difficulty | Link                                                                       | Status  |
 | ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------- | ------- |
 | 0001 | Two Sum                         | Easy       | [LeetCode](https://leetcode.com/problems/two-sum/)                         | ✅ Done |
-| 0020 | Valid Parentheses               | Easy       | [LeetCode](https://leetcode.com/problems/valid-parentheses/)               | ⬜ Todo |
+| 0020 | Valid Parentheses               | Easy       | [LeetCode](https://leetcode.com/problems/valid-parentheses/)               | ✅ Done |
 | 0121 | Best Time to Buy and Sell Stock | Easy       | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Done |
 
 <!--
