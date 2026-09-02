@@ -14,15 +14,15 @@ function isValid(s) {
     }
 
     if (stacks.length == 0) {
-      return false
+      return false;
     }
-    let top = stacks.pop()
+    let top = stacks.pop();
     if ((top == '(' && c !== ')') || (top == '{' && c != '}') || (top == '[' && c != ']')) {
-      return false
+      return false;
     }
   }
 
-  return !stacks.length
+  return !stacks.length;
 }
 
 export default isValid;
