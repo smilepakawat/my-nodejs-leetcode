@@ -6,7 +6,15 @@
  * @return {boolean}
  */
 function containsDuplicate(nums) {
-  // TODO: implement
+  let set = new Set();
+  for (const n of nums) {
+    if (set.has(n)) {
+      return true;
+    }
+    set.add(n);
+  }
+
+  return false;
 }
 
 export default containsDuplicate;
