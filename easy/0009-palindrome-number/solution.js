@@ -7,17 +7,17 @@
  */
 function isPalindrome(x) {
   if (x < 0) {
-    return false
+    return false;
   }
 
   let rev = 0;
   let num = x;
   while (num > 0) {
-    rev = (rev * 10) + (num % 10);
+    rev = rev * 10 + (num % 10);
     num = Math.floor(num / 10);
   }
 
-  return x == rev
+  return x == rev;
 }
 
 export default isPalindrome;
