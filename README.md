@@ -82,7 +82,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0009 | Palindrome Number               | Easy       | [LeetCode](https://leetcode.com/problems/palindrome-number/)               | ✅ Done |
 | 0217 | Contains Duplicate              | Easy       | [LeetCode](https://leetcode.com/problems/contains-duplicate/)              | ✅ Done |
 | 0242 | Valid Anagram                   | Easy       | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
-| 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ⬜ Todo |
+| 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
 
 <!--
 Add a row per problem as you go, e.g.:
