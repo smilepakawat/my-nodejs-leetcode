@@ -12,7 +12,7 @@ function search(nums, target) {
   while (low <= high) {
     const mid = Math.floor((low + high) / 2);
     if (target == nums[mid]) {
-      return mid
+      return mid;
     } else if (target > nums[mid]) {
       low = mid + 1;
     } else {

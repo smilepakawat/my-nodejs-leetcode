@@ -83,6 +83,8 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0217 | Contains Duplicate              | Easy       | [LeetCode](https://leetcode.com/problems/contains-duplicate/)              | ✅ Done |
 | 0242 | Valid Anagram                   | Easy       | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
 | 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
+| 0136 | Single Number                   | Easy       | [LeetCode](https://leetcode.com/problems/single-number/)                   | ⬜ Todo |
+| 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ⬜ Todo |
 
 <!--
 Add a row per problem as you go, e.g.:
