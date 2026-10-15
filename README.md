@@ -85,6 +85,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
 | 0136 | Single Number                   | Easy       | [LeetCode](https://leetcode.com/problems/single-number/)                   | ✅ Done |
 | 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ⬜ Todo |
+| 0416 | Partition Equal Subset Sum      | Medium     | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)      | ⬜ Todo |
 
 <!--
 Add a row per problem as you go, e.g.:
