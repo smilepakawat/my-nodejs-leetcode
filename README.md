@@ -84,7 +84,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0242 | Valid Anagram                   | Easy       | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
 | 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
 | 0136 | Single Number                   | Easy       | [LeetCode](https://leetcode.com/problems/single-number/)                   | ✅ Done |
-| 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ⬜ Todo |
+| 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ✅ Done |
 | 0416 | Partition Equal Subset Sum      | Medium     | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)      | ⬜ Todo |
 
 <!--
