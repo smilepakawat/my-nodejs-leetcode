@@ -86,7 +86,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0136 | Single Number                   | Easy       | [LeetCode](https://leetcode.com/problems/single-number/)                   | ✅ Done |
 | 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ✅ Done |
 | 0416 | Partition Equal Subset Sum      | Medium     | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)      | ⬜ Todo |
-| 0125 | Valid Palindrome                | Easy       | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                | ⬜ Todo |
+| 0125 | Valid Palindrome                | Easy       | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                | ✅ Done |
 | 0268 | Missing Number                  | Easy       | [LeetCode](https://leetcode.com/problems/missing-number/)                  | ⬜ Todo |
 
 <!--
