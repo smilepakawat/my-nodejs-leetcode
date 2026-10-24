@@ -74,23 +74,34 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 
 ## Progress
 
-| #    | Title                           | Difficulty | Link                                                                       | Status  |
-| ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------- | ------- |
-| 0001 | Two Sum                         | Easy       | [LeetCode](https://leetcode.com/problems/two-sum/)                         | ✅ Done |
-| 0020 | Valid Parentheses               | Easy       | [LeetCode](https://leetcode.com/problems/valid-parentheses/)               | ✅ Done |
-| 0121 | Best Time to Buy and Sell Stock | Easy       | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Done |
-| 0009 | Palindrome Number               | Easy       | [LeetCode](https://leetcode.com/problems/palindrome-number/)               | ✅ Done |
-| 0217 | Contains Duplicate              | Easy       | [LeetCode](https://leetcode.com/problems/contains-duplicate/)              | ✅ Done |
-| 0242 | Valid Anagram                   | Easy       | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
-| 0704 | Binary Search                   | Easy       | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
-| 0136 | Single Number                   | Easy       | [LeetCode](https://leetcode.com/problems/single-number/)                   | ✅ Done |
-| 0169 | Majority Element                | Easy       | [LeetCode](https://leetcode.com/problems/majority-element/)                | ✅ Done |
-| 0416 | Partition Equal Subset Sum      | Medium     | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)      | ⬜ Todo |
-| 0125 | Valid Palindrome                | Easy       | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                | ✅ Done |
-| 0268 | Missing Number                  | Easy       | [LeetCode](https://leetcode.com/problems/missing-number/)                  | ⬜ Todo |
+### Easy
+
+| #    | Title                           | Link                                                                       | Status  |
+| ---- | ------------------------------- | -------------------------------------------------------------------------- | ------- |
+| 0001 | Two Sum                         | [LeetCode](https://leetcode.com/problems/two-sum/)                         | ✅ Done |
+| 0009 | Palindrome Number               | [LeetCode](https://leetcode.com/problems/palindrome-number/)               | ✅ Done |
+| 0020 | Valid Parentheses               | [LeetCode](https://leetcode.com/problems/valid-parentheses/)               | ✅ Done |
+| 0121 | Best Time to Buy and Sell Stock | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Done |
+| 0125 | Valid Palindrome                | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                | ✅ Done |
+| 0136 | Single Number                   | [LeetCode](https://leetcode.com/problems/single-number/)                   | ✅ Done |
+| 0169 | Majority Element                | [LeetCode](https://leetcode.com/problems/majority-element/)                | ✅ Done |
+| 0217 | Contains Duplicate              | [LeetCode](https://leetcode.com/problems/contains-duplicate/)              | ✅ Done |
+| 0242 | Valid Anagram                   | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
+| 0268 | Missing Number                  | [LeetCode](https://leetcode.com/problems/missing-number/)                  | ⬜ Todo |
+| 0704 | Binary Search                   | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
+
+### Medium
+
+| #    | Title                      | Link                                                                  | Status  |
+| ---- | -------------------------- | --------------------------------------------------------------------- | ------- |
+| 0416 | Partition Equal Subset Sum | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | ⬜ Todo |
+
+### Hard
+
+_No problems yet._
 
 <!--
-Add a row per problem as you go, e.g.:
-| 0002 | Add Two Numbers | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | 🚧 In Progress |
+Add a row to the matching difficulty table, keeping rows sorted by problem number, e.g.:
+| 0002 | Add Two Numbers | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | 🚧 In Progress |
 Status values I use: ⬜ Todo · 🚧 In Progress · ✅ Done
 -->
