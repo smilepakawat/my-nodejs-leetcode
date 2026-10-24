@@ -87,7 +87,7 @@ This generates `medium/0002-add-two-numbers/` with `solution.js`,
 | 0169 | Majority Element                | [LeetCode](https://leetcode.com/problems/majority-element/)                | ✅ Done |
 | 0217 | Contains Duplicate              | [LeetCode](https://leetcode.com/problems/contains-duplicate/)              | ✅ Done |
 | 0242 | Valid Anagram                   | [LeetCode](https://leetcode.com/problems/valid-anagram/)                   | ✅ Done |
-| 0268 | Missing Number                  | [LeetCode](https://leetcode.com/problems/missing-number/)                  | ⬜ Todo |
+| 0268 | Missing Number                  | [LeetCode](https://leetcode.com/problems/missing-number/)                  | ✅ Done |
 | 0704 | Binary Search                   | [LeetCode](https://leetcode.com/problems/binary-search/)                   | ✅ Done |
 
 ### Medium
